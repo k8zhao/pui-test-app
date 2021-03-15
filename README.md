@@ -1,3 +1,3 @@
-# pui-test-app
+# pui-labs
 
-I created this repository in PUI lab. 
+Repository for all future PUI labs.
